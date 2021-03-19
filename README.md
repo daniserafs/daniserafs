@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @daniserafs
+- 👋 Hi, I’m Dani
 - 👀 I’m interested in money, cats, bts (the South Korean group), languages, education, tecnology 
-- 🌱 I’m currently learning html, css, javascript
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on building a better world through tecnology and education
 - 📫 How to reach me danyelaserafim@gmail.com
 
