@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dani
 - 👀 I’m interested in money, cats, bts (the South Korean group), languages, education, tecnology 
-- 🌱 I’m currently learning ReactJS, NodeJS, JAVASCRIPT, HTML, CSS, PYTHON, Apex  
+- 🌱 I’m currently learning React Native, ReactJS, NodeJS, JAVASCRIPT, HTML, CSS, PYTHON, Apex  
 - 💞️ I’m looking to collaborate on building a better world through tecnology and education
 - 📫 How to reach me danyelaserafim@gmail.com
 
