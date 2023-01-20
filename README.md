@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dani
 - 👀 I’m interested in cats, bts (the South Korean group), languages, education, technology 
-- 🌱 I’m currently learning Go Lang, Solidity, React Native, ReactJS, NodeJS, Javascript, HTML, CSS, Python, Apex  
+- 🌱 I’m currently learning Go Lang, Solidity, React Native, ReactJS, NodeJS, Typescript, C, Javascript, Python, HTML, CSS  
 - 💞️ I’m looking forward to collaborate on building a better world through tecnology and education
 - 📫 How to reach me danyelaserafim@gmail.com
 
