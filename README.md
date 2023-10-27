@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniela
 - 👀 I’m interested in cats, bts (the South Korean group), languages, education, technology 
-- 🌱 I’m currently learning Go Lang, C, React Native, ReactJS, NodeJS, Typescript, Javascript, Python, HTML, CSS  
+- 🌱 I’m currently learning Go Lang, C, React Native, ReactJS, NodeJS, Typescript, Javascript, HTML, CSS  
 - 💞️ I’m looking forward to collaborate on building a better world through tecnology and education
 - 📫 How to reach me danyelaserafim@gmail.com
 
